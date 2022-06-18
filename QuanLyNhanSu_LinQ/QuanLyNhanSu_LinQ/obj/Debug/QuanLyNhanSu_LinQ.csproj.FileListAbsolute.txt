@@ -1,0 +1,33 @@
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\bin\Debug\QuanLyNhanSu_LinQ.exe.config
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\bin\Debug\QuanLyNhanSu_LinQ.exe
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\bin\Debug\QuanLyNhanSu_LinQ.pdb
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.csproj.AssemblyReference.cache
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.csproj.SuggestedBindingRedirects.cache
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Employee.AddNewEmployee.resources
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Employee.FormManageEmployee.resources
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.Properties.Resources.resources
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.csproj.GenerateResource.cache
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.csproj.CoreCompileInputs.cache
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.exe
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.pdb
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Employee.EditEmployeeInfo.resources
+E:\2021 -2022\2022\Lập trình window\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Employee.ViewEmployeeInfo.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\bin\Debug\QuanLyNhanSu_LinQ.exe.config
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\bin\Debug\QuanLyNhanSu_LinQ.exe
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\bin\Debug\QuanLyNhanSu_LinQ.pdb
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.csproj.AssemblyReference.cache
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.csproj.SuggestedBindingRedirects.cache
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Employee.AddNewEmployee.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Employee.EditEmployeeInfo.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Employee.FormManageEmployee.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Employee.ViewEmployeeInfo.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.Properties.Resources.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.csproj.GenerateResource.cache
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.csproj.CoreCompileInputs.cache
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.exe
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.pdb
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Relatives.AddNewRelative.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.FormManagementBase.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Relatives.FormManagementRelative.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Relatives.EditRelativeInfo.resources
+E:\HVTG\Code\Window\Final\QuanLyNhanSu_LinQ\QuanLyNhanSu_LinQ\obj\Debug\QuanLyNhanSu_LinQ.PreLayer.Relatives.ViewRelativeInfo.resources

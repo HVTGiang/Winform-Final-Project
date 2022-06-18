@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QuanLyNhanSu">
+  <DataContextMoniker Name="/QuanLyNhanSuDataContext" />
+  <nestedChildShapes>
+    <classShape Id="fb5adf8e-5bb9-460c-b299-e9eb7132b99d" absoluteBounds="3.5, 1, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/QuanLyNhanSuDataContext/NHANVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97ca78ef-5700-4a0c-bf9b-1959395f7deb" absoluteBounds="3.515, 1.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7d2d3fa0-b2b6-4468-951e-1aedbe2ba7e5" absoluteBounds="0.75, 2, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/QuanLyNhanSuDataContext/PHONGBAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd38439c-5c01-4d18-b926-af3c4d7a7970" absoluteBounds="0.765, 2.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e2b8c8c7-2384-47d2-92ec-2f15bd7a42fd" absoluteBounds="6.25, 1.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QuanLyNhanSuDataContext/THANNHAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cfc9fc5c-4d67-4e79-99f2-9e15c757d8da" absoluteBounds="6.265, 2.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.69314697265625); (3.5 : 2.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyNhanSuDataContext/PHONGBAN/PHONGBAN_NHANVIEN" />
+      <nodes>
+        <classShapeMoniker Id="7d2d3fa0-b2b6-4468-951e-1aedbe2ba7e5" />
+        <classShapeMoniker Id="fb5adf8e-5bb9-460c-b299-e9eb7132b99d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.66429768880208); (6.25 : 2.66429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyNhanSuDataContext/NHANVIEN/NHANVIEN_THANNHAN" />
+      <nodes>
+        <classShapeMoniker Id="fb5adf8e-5bb9-460c-b299-e9eb7132b99d" />
+        <classShapeMoniker Id="e2b8c8c7-2384-47d2-92ec-2f15bd7a42fd" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
